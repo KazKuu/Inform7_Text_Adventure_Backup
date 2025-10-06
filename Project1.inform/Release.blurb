@@ -10,7 +10,7 @@ release to "C:\Users\mikur\Documents\Inform\Projects\Project1.materials\Release"
 
 ! Blorb instructions
 
-storyfile leafname "Project1.zblorb"
+storyfile leafname "Escape Normal House.zblorb"
 storyfile "C:\Users\mikur\Documents\Inform\Projects\Project1.inform\Build\output.z8" include
 ifiction "C:\Users\mikur\Documents\Inform\Projects\Project1.inform\Metadata.iFiction" include
 cover "C:\Program Files\Inform\Internal\Miscellany\DefaultCover.jpg"
@@ -21,8 +21,8 @@ picture 1 "C:\Program Files\Inform\Internal\Miscellany\DefaultCover.jpg"
 placeholder [IFID] = "0F3E0D10-2520-42FE-84AE-9F1341EFDB3E"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2025"
-placeholder [TITLE] = "Project1"
-placeholder [AUTHOR] = "Kayln B"
+placeholder [TITLE] = "Escape Normal House"
+placeholder [AUTHOR] = "Kaz"
 placeholder [BLURB] = "A work of interactive fiction."
 
 ! Other material to release
