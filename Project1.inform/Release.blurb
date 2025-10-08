@@ -22,7 +22,7 @@ placeholder [IFID] = "0F3E0D10-2520-42FE-84AE-9F1341EFDB3E"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2025"
 placeholder [TITLE] = "Escape Normal House"
-placeholder [AUTHOR] = "Kaz"
+placeholder [AUTHOR] = "KaylnB"
 placeholder [BLURB] = "A work of interactive fiction."
 
 ! Other material to release

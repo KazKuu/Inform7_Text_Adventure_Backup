@@ -1,4 +1,4 @@
- "Escape Normal House" by Kaz
+ "Escape Normal House" by KaylnB
 
 Book 1 - Locations
 	
